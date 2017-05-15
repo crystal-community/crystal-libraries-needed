@@ -7,6 +7,8 @@ If you are in doubt about the availability of some feature or other, please chec
 
 otherwise, add a [SHARD I WANT OR NEED](https://github.com/johnjansen/crystal-libraries-needed/issues)
 
+want some inspiration, well, [take a look here](https://rubygems.org/stats), if you start something, let us know its underway
+
 If you want to attack one of the issues, let me know and i'll "assign" it to you, and include a link to your repo
 
 Cheers John
