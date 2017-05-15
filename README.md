@@ -1,5 +1,7 @@
 # crystal-libraries-needed [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/crystal-libraries-needed/Lobby)
 
+[![Join the chat at https://gitter.im/crystal-libraries-needed/Lobby](https://badges.gitter.im/crystal-libraries-needed/Lobby.svg)](https://gitter.im/crystal-libraries-needed/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Please create issues for the features you need or want from CrystalLang, label them appropriately and let me know if you have any thoughts on the management of this list.
 
 If you are in doubt about the availability of some feature or other, please check
